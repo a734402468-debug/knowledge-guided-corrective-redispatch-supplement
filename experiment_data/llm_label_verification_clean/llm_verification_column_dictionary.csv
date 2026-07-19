@@ -1,0 +1,102 @@
+﻿file,column,description
+table2_label_verification_summary.csv,Test group,Column retained from the original verification result file.
+table2_label_verification_summary.csv,Outputs,Column retained from the original verification result file.
+table2_label_verification_summary.csv,Parseable,Column retained from the original verification result file.
+table2_label_verification_summary.csv,Complete,Column retained from the original verification result file.
+table2_label_verification_summary.csv,Runtime-admissible,Column retained from the original verification result file.
+table2_label_verification_summary.csv,Role exact,Column retained from the original verification result file.
+table2_label_verification_summary.csv,Gate-label acc.,Column retained from the original verification result file.
+real_operating_input_label_results.csv,timestamp,Column retained from the original verification result file.
+real_operating_input_label_results.csv,test_group,Evaluation group used in Table 2.
+real_operating_input_label_results.csv,scenario,Column retained from the original verification result file.
+real_operating_input_label_results.csv,trial,Column retained from the original verification result file.
+real_operating_input_label_results.csv,n_overloads,Column retained from the original verification result file.
+real_operating_input_label_results.csv,affected_zones,Column retained from the original verification result file.
+real_operating_input_label_results.csv,n_input_generators,Column retained from the original verification result file.
+real_operating_input_label_results.csv,parseable,Number or rate of parseable outputs.
+real_operating_input_label_results.csv,allowed_roles,Column retained from the original verification result file.
+real_operating_input_label_results.csv,allowed_gates,Column retained from the original verification result file.
+real_operating_input_label_results.csv,complete_zone_roles,Column retained from the original verification result file.
+real_operating_input_label_results.csv,complete_coverage,Column retained from the original verification result file.
+real_operating_input_label_results.csv,prohibited_key_count,Column retained from the original verification result file.
+real_operating_input_label_results.csv,runtime_admissible,Column retained from the original verification result file.
+real_operating_input_label_results.csv,runtime_fail_reasons,Column retained from the original verification result file.
+real_operating_input_label_results.csv,role_accuracy,Column retained from the original verification result file.
+real_operating_input_label_results.csv,role_exact_match,Column retained from the original verification result file.
+real_operating_input_label_results.csv,gate_label_accuracy,Column retained from the original verification result file.
+real_operating_input_label_results.csv,gate_exact_match,Column retained from the original verification result file.
+real_operating_input_label_results.csv,n_role_mismatches,Column retained from the original verification result file.
+real_operating_input_label_results.csv,n_gate_mismatches,Column retained from the original verification result file.
+real_operating_input_label_results.csv,n_missing_generators,Column retained from the original verification result file.
+real_operating_input_label_results.csv,n_extra_generators,Column retained from the original verification result file.
+real_operating_input_label_results.csv,llm_latency_s,Column retained from the original verification result file.
+real_operating_input_label_results.csv,eval_latency_s,Column retained from the original verification result file.
+real_operating_input_label_results.csv,payload_hash,Column retained from the original verification result file.
+real_operating_input_label_results.csv,reference_hash,Column retained from the original verification result file.
+real_operating_input_label_results.csv,prediction_hash,Column retained from the original verification result file.
+real_operating_input_label_results.csv,fail_reason,Column retained from the original verification result file.
+real_operating_input_label_results.csv,mismatch_details,Column retained from the original verification result file.
+equivalent_wording_variant_results.csv,timestamp,Column retained from the original verification result file.
+equivalent_wording_variant_results.csv,test_group,Evaluation group used in Table 2.
+equivalent_wording_variant_results.csv,payload_id,Input payload identifier.
+equivalent_wording_variant_results.csv,expression_id,Column retained from the original verification result file.
+equivalent_wording_variant_results.csv,trial,Column retained from the original verification result file.
+equivalent_wording_variant_results.csv,n_overloads,Column retained from the original verification result file.
+equivalent_wording_variant_results.csv,affected_zones,Column retained from the original verification result file.
+equivalent_wording_variant_results.csv,n_input_generators,Column retained from the original verification result file.
+equivalent_wording_variant_results.csv,parseable,Number or rate of parseable outputs.
+equivalent_wording_variant_results.csv,allowed_roles,Column retained from the original verification result file.
+equivalent_wording_variant_results.csv,allowed_gates,Column retained from the original verification result file.
+equivalent_wording_variant_results.csv,complete_zone_roles,Column retained from the original verification result file.
+equivalent_wording_variant_results.csv,complete_coverage,Column retained from the original verification result file.
+equivalent_wording_variant_results.csv,prohibited_key_count,Column retained from the original verification result file.
+equivalent_wording_variant_results.csv,runtime_admissible,Column retained from the original verification result file.
+equivalent_wording_variant_results.csv,runtime_fail_reasons,Column retained from the original verification result file.
+equivalent_wording_variant_results.csv,role_accuracy,Column retained from the original verification result file.
+equivalent_wording_variant_results.csv,role_exact_match,Column retained from the original verification result file.
+equivalent_wording_variant_results.csv,gate_label_accuracy,Column retained from the original verification result file.
+equivalent_wording_variant_results.csv,gate_exact_match,Column retained from the original verification result file.
+equivalent_wording_variant_results.csv,n_role_mismatches,Column retained from the original verification result file.
+equivalent_wording_variant_results.csv,n_gate_mismatches,Column retained from the original verification result file.
+equivalent_wording_variant_results.csv,n_missing_generators,Column retained from the original verification result file.
+equivalent_wording_variant_results.csv,n_extra_generators,Column retained from the original verification result file.
+equivalent_wording_variant_results.csv,llm_latency_s,Column retained from the original verification result file.
+equivalent_wording_variant_results.csv,eval_latency_s,Column retained from the original verification result file.
+equivalent_wording_variant_results.csv,payload_hash,Column retained from the original verification result file.
+equivalent_wording_variant_results.csv,reference_hash,Column retained from the original verification result file.
+equivalent_wording_variant_results.csv,prediction_hash,Column retained from the original verification result file.
+equivalent_wording_variant_results.csv,fail_reason,Column retained from the original verification result file.
+equivalent_wording_variant_results.csv,mismatch_details,Column retained from the original verification result file.
+label_mismatch_cases.csv,timestamp,Column retained from the original verification result file.
+label_mismatch_cases.csv,test_group,Evaluation group used in Table 2.
+label_mismatch_cases.csv,scenario,Column retained from the original verification result file.
+label_mismatch_cases.csv,trial,Column retained from the original verification result file.
+label_mismatch_cases.csv,n_overloads,Column retained from the original verification result file.
+label_mismatch_cases.csv,affected_zones,Column retained from the original verification result file.
+label_mismatch_cases.csv,n_input_generators,Column retained from the original verification result file.
+label_mismatch_cases.csv,parseable,Number or rate of parseable outputs.
+label_mismatch_cases.csv,allowed_roles,Column retained from the original verification result file.
+label_mismatch_cases.csv,allowed_gates,Column retained from the original verification result file.
+label_mismatch_cases.csv,complete_zone_roles,Column retained from the original verification result file.
+label_mismatch_cases.csv,complete_coverage,Column retained from the original verification result file.
+label_mismatch_cases.csv,prohibited_key_count,Column retained from the original verification result file.
+label_mismatch_cases.csv,runtime_admissible,Column retained from the original verification result file.
+label_mismatch_cases.csv,runtime_fail_reasons,Column retained from the original verification result file.
+label_mismatch_cases.csv,role_accuracy,Column retained from the original verification result file.
+label_mismatch_cases.csv,role_exact_match,Column retained from the original verification result file.
+label_mismatch_cases.csv,gate_label_accuracy,Column retained from the original verification result file.
+label_mismatch_cases.csv,gate_exact_match,Column retained from the original verification result file.
+label_mismatch_cases.csv,n_role_mismatches,Column retained from the original verification result file.
+label_mismatch_cases.csv,n_gate_mismatches,Column retained from the original verification result file.
+label_mismatch_cases.csv,n_missing_generators,Column retained from the original verification result file.
+label_mismatch_cases.csv,n_extra_generators,Column retained from the original verification result file.
+label_mismatch_cases.csv,llm_latency_s,Column retained from the original verification result file.
+label_mismatch_cases.csv,eval_latency_s,Column retained from the original verification result file.
+label_mismatch_cases.csv,payload_hash,Column retained from the original verification result file.
+label_mismatch_cases.csv,reference_hash,Column retained from the original verification result file.
+label_mismatch_cases.csv,prediction_hash,Column retained from the original verification result file.
+label_mismatch_cases.csv,fail_reason,Column retained from the original verification result file.
+label_mismatch_cases.csv,mismatch_details,Column retained from the original verification result file.
+label_mismatch_cases.csv,source_file,Column retained from the original verification result file.
+label_mismatch_cases.csv,payload_id,Input payload identifier.
+label_mismatch_cases.csv,expression_id,Column retained from the original verification result file.

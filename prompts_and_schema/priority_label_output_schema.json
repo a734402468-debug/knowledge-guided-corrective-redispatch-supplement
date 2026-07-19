@@ -1,0 +1,102 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "priority_label_output_schema.json",
+  "title": "Priority Labeling Output Schema",
+  "description": "Schema for checked LLM outputs used by the guideline-to-OPF priority-labeling interface.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "overall_reasoning",
+    "zone_roles",
+    "resource_actions"
+  ],
+  "properties": {
+    "overall_reasoning": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Brief explanation of the matched scenario-classification rule and the assigned zone roles."
+    },
+    "zone_roles": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "NOA",
+        "SOA",
+        "WOA"
+      ],
+      "properties": {
+        "NOA": {
+          "$ref": "#/$defs/zone_role"
+        },
+        "SOA": {
+          "$ref": "#/$defs/zone_role"
+        },
+        "WOA": {
+          "$ref": "#/$defs/zone_role"
+        }
+      }
+    },
+    "resource_actions": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "#/$defs/resource_action"
+      },
+      "description": "One action object for each generator in the input candidate set. Coverage and uniqueness are checked by the deterministic checker against the input generator list."
+    }
+  },
+  "$defs": {
+    "zone_role": {
+      "type": "string",
+      "enum": [
+        "Source",
+        "Sink",
+        "Local",
+        "External"
+      ]
+    },
+    "gate_label": {
+      "type": "string",
+      "enum": [
+        "Gate_1",
+        "Gate_2",
+        "Gate_3",
+        "Gate_4"
+      ]
+    },
+    "resource_action": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "resource_id",
+        "up_reasoning",
+        "up_label",
+        "down_reasoning",
+        "down_label"
+      ],
+      "properties": {
+        "resource_id": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Generator identifier copied exactly from the input generators_info list."
+        },
+        "up_reasoning": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Brief reasoning for the upward priority label."
+        },
+        "up_label": {
+          "$ref": "#/$defs/gate_label"
+        },
+        "down_reasoning": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Brief reasoning for the downward priority label."
+        },
+        "down_label": {
+          "$ref": "#/$defs/gate_label"
+        }
+      }
+    }
+  }
+}

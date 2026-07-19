@@ -1,0 +1,120 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "priority_label_input_schema.json",
+  "title": "Priority Labeling Input Schema",
+  "description": "Schema for the alarm metadata and generator metadata supplied to the priority-labeling prompt.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "overload_list",
+    "generators_info"
+  ],
+  "properties": {
+    "overload_list": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "oneOf": [
+          {
+            "$ref": "#/$defs/cutset_overload"
+          },
+          {
+            "$ref": "#/$defs/internal_overload"
+          }
+        ]
+      }
+    },
+    "generators_info": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "#/$defs/generator_info"
+      }
+    }
+  },
+  "$defs": {
+    "zone": {
+      "type": "string",
+      "enum": [
+        "NOA",
+        "SOA",
+        "WOA"
+      ]
+    },
+    "generator_type": {
+      "type": "string",
+      "enum": [
+        "Hydro",
+        "Gas",
+        "CombinedCycle",
+        "Coal"
+      ]
+    },
+    "cutset_overload": {
+      "type": "object",
+      "additionalProperties": true,
+      "required": [
+        "type",
+        "direction"
+      ],
+      "properties": {
+        "type": {
+          "const": "Cutset"
+        },
+        "direction": {
+          "type": "string",
+          "pattern": "^(NOA|SOA|WOA)\\s*->\\s*(NOA|SOA|WOA)$"
+        },
+        "element_id": {
+          "type": "string"
+        },
+        "loading_percent": {
+          "type": "number"
+        }
+      }
+    },
+    "internal_overload": {
+      "type": "object",
+      "additionalProperties": true,
+      "required": [
+        "type",
+        "zone"
+      ],
+      "properties": {
+        "type": {
+          "const": "Internal"
+        },
+        "zone": {
+          "$ref": "#/$defs/zone"
+        },
+        "element_id": {
+          "type": "string"
+        },
+        "loading_percent": {
+          "type": "number"
+        }
+      }
+    },
+    "generator_info": {
+      "type": "object",
+      "additionalProperties": true,
+      "required": [
+        "resource_id",
+        "zone",
+        "type"
+      ],
+      "properties": {
+        "resource_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "zone": {
+          "$ref": "#/$defs/zone"
+        },
+        "type": {
+          "$ref": "#/$defs/generator_type"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿file,column,description
+generators_original_clean.csv,gen_id,Normalized original generator identifier.
+generators_original_clean.csv,bus_id,Connected bus number.
+generators_original_clean.csv,bus_name,Connected bus name.
+generators_original_clean.csv,pgini_mw,Initial active-power output of the original generator copy.
+generators_original_clean.csv,pmin_uc_mw,Lower active-power limit used in the corrective redispatch workflow.
+generators_original_clean.csv,pmax_uc_mw,Upper active-power limit used in the corrective redispatch workflow.
+loads_nominal_clean.csv,load_id,PowerFactory load identifier.
+loads_nominal_clean.csv,bus_id,Connected bus number.
+loads_nominal_clean.csv,bus_name,Connected bus name.
+loads_nominal_clean.csv,plini_mw,Nominal active-power load.
+load_bounds_30pct_clean.csv,load_id,PowerFactory load identifier.
+load_bounds_30pct_clean.csv,bus_id,Connected bus number.
+load_bounds_30pct_clean.csv,bus_name,Connected bus name.
+load_bounds_30pct_clean.csv,p_nominal_mw,Nominal active-power load.
+load_bounds_30pct_clean.csv,p_min_mw,Lower bound generated as 0.7 times nominal load.
+load_bounds_30pct_clean.csv,p_max_mw,Upper bound generated as 1.3 times nominal load.
+branch_active_power_flows_clean.csv,line_id,PowerFactory line identifier.
+branch_active_power_flows_clean.csv,from_bus_id,From-side bus number.
+branch_active_power_flows_clean.csv,from_bus_name,From-side bus name.
+branch_active_power_flows_clean.csv,to_bus_id,To-side bus number.
+branch_active_power_flows_clean.csv,to_bus_name,To-side bus name.
+branch_active_power_flows_clean.csv,p_from_mw,Active-power flow at the from side after load-flow calculation.
+branch_active_power_flows_clean.csv,p_to_mw,Active-power flow at the to side after load-flow calculation.
+branch_active_power_flows_clean.csv,loading_percent,Line loading percentage after load-flow calculation.

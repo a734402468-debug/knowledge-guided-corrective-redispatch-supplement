@@ -1,0 +1,15 @@
+set,paired_subset,n,method,mean_ezad_pct,mean_gate1_plus_gate2_pct,median_ezad_pct,median_gate1_plus_gate2_pct
+S1,Pure_vs_Proposed,79,Pure,56.294,71.551,75.807,80.783
+S1,Pure_vs_Proposed,79,Proposed,4.424,5.319,0.0,0.0
+S1,Hard_vs_Proposed,51,Hard,0.0,0.039,,
+S1,Hard_vs_Proposed,51,Proposed,0.594,0.633,,
+S1,All_three,48,Pure,48.006,64.774,,
+S1,All_three,48,Hard,0.0,0.041,,
+S1,All_three,48,Proposed,0.631,0.673,,
+S3,Pure_vs_Proposed,50,Pure,53.813,64.64,,
+S3,Pure_vs_Proposed,50,Proposed,0.0,0.065,,
+S3,Hard_vs_Proposed,39,Hard,0.0,0.084,,
+S3,Hard_vs_Proposed,39,Proposed,0.0,0.084,,
+S3,All_three,32,Pure,54.744,65.512,,
+S3,All_three,32,Hard,0.0,0.102,,
+S3,All_three,32,Proposed,0.0,0.102,,

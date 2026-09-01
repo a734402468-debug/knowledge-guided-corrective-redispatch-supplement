@@ -1,0 +1,1938 @@
+{
+    "Limit_Scen_001": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [SOA加压] + N-1 [lne_79_80_1]",
+        "disconnected_line": "lne_79_80_1",
+        "max_loading": 118.21,
+        "overload_lines": [
+            "lne_69_77_1",
+            "lne_70_75_1",
+            "lne_77_80_1"
+        ],
+        "overload_details": {
+            "lne_69_77_1": 105.63,
+            "lne_70_75_1": 100.59,
+            "lne_77_80_1": 118.21
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "Source",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_002": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [SOA加压] + N-1 [lne_80_96_1]",
+        "disconnected_line": "lne_80_96_1",
+        "max_loading": 112.11,
+        "overload_lines": [
+            "lne_77_82_1"
+        ],
+        "overload_details": {
+            "lne_77_82_1": 112.11
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "Source",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_003": {
+        "category": "Case_C",
+        "description": "纯内部多区并发越限",
+        "stress_mode": "LHS [SOA加压] + N-1 [lne_26_30_1]",
+        "disconnected_line": "lne_26_30_1",
+        "max_loading": 148.98,
+        "overload_lines": [
+            "lne_23_25_1",
+            "lne_70_75_1"
+        ],
+        "overload_details": {
+            "lne_23_25_1": 148.98,
+            "lne_70_75_1": 113.34
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "Source",
+            "WOA": "Source"
+        }
+    },
+    "Limit_Scen_004": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [SOA加压] + N-1 [lne_80_97_1]",
+        "disconnected_line": "lne_80_97_1",
+        "max_loading": 113.27,
+        "overload_lines": [
+            "lne_77_82_1"
+        ],
+        "overload_details": {
+            "lne_77_82_1": 113.27
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "Source",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_005": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [SOA加压] + N-1 [lne_105_108_1]",
+        "disconnected_line": "lne_105_108_1",
+        "max_loading": 129.4,
+        "overload_lines": [
+            "lne_109_110_1"
+        ],
+        "overload_details": {
+            "lne_109_110_1": 129.4
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "Source",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_006": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [SOA加压] + N-1 [lne_40_42_1]",
+        "disconnected_line": "lne_40_42_1",
+        "max_loading": 103.84,
+        "overload_lines": [
+            "lne_40_41_1"
+        ],
+        "overload_details": {
+            "lne_40_41_1": 103.84
+        },
+        "zone_roles": {
+            "NOA": "Source",
+            "SOA": "External",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_007": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [SOA加压] + N-1 [lne_96_97_1]",
+        "disconnected_line": "lne_96_97_1",
+        "max_loading": 110.91,
+        "overload_lines": [
+            "lne_77_82_1"
+        ],
+        "overload_details": {
+            "lne_77_82_1": 110.91
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "Source",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_008": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [SOA加压] + N-1 [lne_53_54_1]",
+        "disconnected_line": "lne_53_54_1",
+        "max_loading": 105.02,
+        "overload_lines": [
+            "lne_51_52_1"
+        ],
+        "overload_details": {
+            "lne_51_52_1": 105.02
+        },
+        "zone_roles": {
+            "NOA": "Source",
+            "SOA": "External",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_009": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [SOA加压] + N-1 [lne_70_71_1]",
+        "disconnected_line": "lne_70_71_1",
+        "max_loading": 109.44,
+        "overload_lines": [
+            "lne_24_70_1"
+        ],
+        "overload_details": {
+            "lne_24_70_1": 109.44
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "Source",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_010": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [SOA加压] + N-1 [lne_27_28_1]",
+        "disconnected_line": "lne_27_28_1",
+        "max_loading": 137.6,
+        "overload_lines": [
+            "lne_28_29_1",
+            "lne_29_31_1"
+        ],
+        "overload_details": {
+            "lne_28_29_1": 111.41,
+            "lne_29_31_1": 137.6
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "External",
+            "WOA": "Source"
+        }
+    },
+    "Limit_Scen_011": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [SOA加压] + N-1 [lne_95_96_1]",
+        "disconnected_line": "lne_95_96_1",
+        "max_loading": 105.6,
+        "overload_lines": [
+            "lne_94_96_1"
+        ],
+        "overload_details": {
+            "lne_94_96_1": 105.6
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "Source",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_012": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [SOA加压] + N-1 [lne_94_96_1]",
+        "disconnected_line": "lne_94_96_1",
+        "max_loading": 106.09,
+        "overload_lines": [
+            "lne_95_96_1"
+        ],
+        "overload_details": {
+            "lne_95_96_1": 106.09
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "Source",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_013": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [SOA加压] + N-1 [lne_70_74_1]",
+        "disconnected_line": "lne_70_74_1",
+        "max_loading": 138.33,
+        "overload_lines": [
+            "lne_70_75_1"
+        ],
+        "overload_details": {
+            "lne_70_75_1": 138.33
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "Source",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_014": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [SOA加压] + N-1 [lne_51_52_1]",
+        "disconnected_line": "lne_51_52_1",
+        "max_loading": 105.02,
+        "overload_lines": [
+            "lne_53_54_1"
+        ],
+        "overload_details": {
+            "lne_53_54_1": 105.02
+        },
+        "zone_roles": {
+            "NOA": "Source",
+            "SOA": "External",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_015": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [SOA加压] + N-1 [lne_80_98_1]",
+        "disconnected_line": "lne_80_98_1",
+        "max_loading": 103.79,
+        "overload_lines": [
+            "lne_77_82_1"
+        ],
+        "overload_details": {
+            "lne_77_82_1": 103.79
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "Source",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_016": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [SOA加压] + N-1 [lne_25_27_1]",
+        "disconnected_line": "lne_25_27_1",
+        "max_loading": 112.68,
+        "overload_lines": [
+            "lne_23_25_1"
+        ],
+        "overload_details": {
+            "lne_23_25_1": 112.68
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "External",
+            "WOA": "Source"
+        }
+    },
+    "Limit_Scen_017": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [SOA加压] + N-1 [lne_82_83_1]",
+        "disconnected_line": "lne_82_83_1",
+        "max_loading": 109.34,
+        "overload_lines": [
+            "lne_94_96_1",
+            "lne_95_96_1"
+        ],
+        "overload_details": {
+            "lne_94_96_1": 108.28,
+            "lne_95_96_1": 109.34
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "Source",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_018": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [SOA加压] + N-1 [lne_91_92_1]",
+        "disconnected_line": "lne_91_92_1",
+        "max_loading": 106.82,
+        "overload_lines": [
+            "lne_89_90_1"
+        ],
+        "overload_details": {
+            "lne_89_90_1": 106.82
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "Source",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_019": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [SOA加压] + N-1 [lne_77_80_1]",
+        "disconnected_line": "lne_77_80_1",
+        "max_loading": 101.67,
+        "overload_lines": [
+            "lne_69_77_1"
+        ],
+        "overload_details": {
+            "lne_69_77_1": 101.67
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "Source",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_020": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [SOA加压] + N-1 [lne_69_77_1]",
+        "disconnected_line": "lne_69_77_1",
+        "max_loading": 130.42,
+        "overload_lines": [
+            "lne_70_75_1",
+            "lne_77_80_1",
+            "lne_78_79_1"
+        ],
+        "overload_details": {
+            "lne_70_75_1": 107.88,
+            "lne_77_80_1": 130.42,
+            "lne_78_79_1": 104.76
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "Source",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_021": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [SOA加压] + N-1 [lne_80_99_1]",
+        "disconnected_line": "lne_80_99_1",
+        "max_loading": 100.46,
+        "overload_lines": [
+            "lne_77_82_1"
+        ],
+        "overload_details": {
+            "lne_77_82_1": 100.46
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "Source",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_022": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [SOA加压] + N-1 [lne_49_51_1]",
+        "disconnected_line": "lne_49_51_1",
+        "max_loading": 111.74,
+        "overload_lines": [
+            "lne_51_58_1",
+            "lne_56_58_1"
+        ],
+        "overload_details": {
+            "lne_51_58_1": 101.75,
+            "lne_56_58_1": 111.74
+        },
+        "zone_roles": {
+            "NOA": "Source",
+            "SOA": "External",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_023": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [SOA加压] + N-1 [lne_39_40_1]",
+        "disconnected_line": "lne_39_40_1",
+        "max_loading": 106.99,
+        "overload_lines": [
+            "lne_37_40_1"
+        ],
+        "overload_details": {
+            "lne_37_40_1": 106.99
+        },
+        "zone_roles": {
+            "NOA": "Source",
+            "SOA": "External",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_024": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [SOA加压] + N-1 [lne_66_67_1]",
+        "disconnected_line": "lne_66_67_1",
+        "max_loading": 102.2,
+        "overload_lines": [
+            "lne_62_67_1"
+        ],
+        "overload_details": {
+            "lne_62_67_1": 102.2
+        },
+        "zone_roles": {
+            "NOA": "Source",
+            "SOA": "External",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_025": {
+        "category": "Case_C",
+        "description": "纯内部多区并发越限",
+        "stress_mode": "LHS [SOA加压] + N-1 [lne_38_65_1]",
+        "disconnected_line": "lne_38_65_1",
+        "max_loading": 111.02,
+        "overload_lines": [
+            "lne_34_43_1",
+            "lne_70_75_1"
+        ],
+        "overload_details": {
+            "lne_34_43_1": 109.25,
+            "lne_70_75_1": 111.02
+        },
+        "zone_roles": {
+            "NOA": "Source",
+            "SOA": "Source",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_026": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [SOA加压] + N-1 [lne_69_70_1]",
+        "disconnected_line": "lne_69_70_1",
+        "max_loading": 115.07,
+        "overload_lines": [
+            "lne_70_75_1"
+        ],
+        "overload_details": {
+            "lne_70_75_1": 115.07
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "Source",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_027": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [SOA加压] + N-1 [lne_74_75_1]",
+        "disconnected_line": "lne_74_75_1",
+        "max_loading": 144.35,
+        "overload_lines": [
+            "lne_70_75_1"
+        ],
+        "overload_details": {
+            "lne_70_75_1": 144.35
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "Source",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_028": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [SOA加压] + N-1 [lne_99_100_1]",
+        "disconnected_line": "lne_99_100_1",
+        "max_loading": 102.23,
+        "overload_lines": [
+            "lne_77_82_1"
+        ],
+        "overload_details": {
+            "lne_77_82_1": 102.23
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "Source",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_029": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [SOA加压] + N-1 [lne_37_40_1]",
+        "disconnected_line": "lne_37_40_1",
+        "max_loading": 102.6,
+        "overload_lines": [
+            "lne_39_40_1"
+        ],
+        "overload_details": {
+            "lne_39_40_1": 102.6
+        },
+        "zone_roles": {
+            "NOA": "Source",
+            "SOA": "External",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_030": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [SOA加压] + N-1 [lne_70_75_1]",
+        "disconnected_line": "lne_70_75_1",
+        "max_loading": 124.03,
+        "overload_lines": [
+            "lne_70_74_1"
+        ],
+        "overload_details": {
+            "lne_70_74_1": 124.03
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "Source",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_031": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [SOA加压] + N-1 [lne_89_90_1]",
+        "disconnected_line": "lne_89_90_1",
+        "max_loading": 106.82,
+        "overload_lines": [
+            "lne_91_92_1"
+        ],
+        "overload_details": {
+            "lne_91_92_1": 106.82
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "Source",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_032": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [SOA加压] + N-1 [lne_69_75_1]",
+        "disconnected_line": "lne_69_75_1",
+        "max_loading": 113.91,
+        "overload_lines": [
+            "lne_70_75_1"
+        ],
+        "overload_details": {
+            "lne_70_75_1": 113.91
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "Source",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_033": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [SOA加压] + N-1 [lne_37_39_1]",
+        "disconnected_line": "lne_37_39_1",
+        "max_loading": 129.76,
+        "overload_lines": [
+            "lne_37_40_1"
+        ],
+        "overload_details": {
+            "lne_37_40_1": 129.76
+        },
+        "zone_roles": {
+            "NOA": "Source",
+            "SOA": "External",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_034": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [SOA加压] + N-1 [lne_77_78_1]",
+        "disconnected_line": "lne_77_78_1",
+        "max_loading": 108.97,
+        "overload_lines": [
+            "lne_78_79_1"
+        ],
+        "overload_details": {
+            "lne_78_79_1": 108.97
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "Source",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_035": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [SOA加压] + N-1 [lne_75_118_1]",
+        "disconnected_line": "lne_75_118_1",
+        "max_loading": 102.62,
+        "overload_lines": [
+            "lne_69_77_1"
+        ],
+        "overload_details": {
+            "lne_69_77_1": 102.62
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "Source",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_036": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [SOA加压] + N-1 [lne_83_85_1]",
+        "disconnected_line": "lne_83_85_1",
+        "max_loading": 146.67,
+        "overload_lines": [
+            "lne_83_84_1",
+            "lne_84_85_1"
+        ],
+        "overload_details": {
+            "lne_83_84_1": 146.67,
+            "lne_84_85_1": 130.77
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "Source",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_037": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [NOA加压] + N-1 [lne_45_46_1]",
+        "disconnected_line": "lne_45_46_1",
+        "max_loading": 103.49,
+        "overload_lines": [
+            "lne_34_43_1"
+        ],
+        "overload_details": {
+            "lne_34_43_1": 103.49
+        },
+        "zone_roles": {
+            "NOA": "Source",
+            "SOA": "External",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_038": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [NOA加压] + N-1 [lne_38_65_1]",
+        "disconnected_line": "lne_38_65_1",
+        "max_loading": 117.16,
+        "overload_lines": [
+            "lne_34_43_1",
+            "lne_37_40_1",
+            "lne_49_50_1"
+        ],
+        "overload_details": {
+            "lne_34_43_1": 117.16,
+            "lne_37_40_1": 104.84,
+            "lne_49_50_1": 100.8
+        },
+        "zone_roles": {
+            "NOA": "Source",
+            "SOA": "External",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_039": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [NOA加压] + N-1 [lne_37_40_1]",
+        "disconnected_line": "lne_37_40_1",
+        "max_loading": 138.4,
+        "overload_lines": [
+            "lne_34_43_1",
+            "lne_39_40_1"
+        ],
+        "overload_details": {
+            "lne_34_43_1": 101.04,
+            "lne_39_40_1": 138.4
+        },
+        "zone_roles": {
+            "NOA": "Source",
+            "SOA": "External",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_040": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [NOA加压] + N-1 [lne_26_30_1]",
+        "disconnected_line": "lne_26_30_1",
+        "max_loading": 147.6,
+        "overload_lines": [
+            "lne_23_25_1",
+            "lne_25_27_1"
+        ],
+        "overload_details": {
+            "lne_23_25_1": 147.6,
+            "lne_25_27_1": 100.77
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "External",
+            "WOA": "Source"
+        }
+    },
+    "Limit_Scen_041": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [NOA加压] + N-1 [lne_70_71_1]",
+        "disconnected_line": "lne_70_71_1",
+        "max_loading": 103.34,
+        "overload_lines": [
+            "lne_34_43_1"
+        ],
+        "overload_details": {
+            "lne_34_43_1": 103.34
+        },
+        "zone_roles": {
+            "NOA": "Source",
+            "SOA": "External",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_042": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [NOA加压] + N-1 [lne_105_108_1]",
+        "disconnected_line": "lne_105_108_1",
+        "max_loading": 101.8,
+        "overload_lines": [
+            "lne_109_110_1"
+        ],
+        "overload_details": {
+            "lne_109_110_1": 101.8
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "Source",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_043": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [NOA加压] + N-1 [lne_50_57_1]",
+        "disconnected_line": "lne_50_57_1",
+        "max_loading": 102.46,
+        "overload_lines": [
+            "lne_49_50_1"
+        ],
+        "overload_details": {
+            "lne_49_50_1": 102.46
+        },
+        "zone_roles": {
+            "NOA": "Source",
+            "SOA": "External",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_044": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [NOA加压] + N-1 [lne_34_43_1]",
+        "disconnected_line": "lne_34_43_1",
+        "max_loading": 102.47,
+        "overload_lines": [
+            "lne_37_40_1"
+        ],
+        "overload_details": {
+            "lne_37_40_1": 102.47
+        },
+        "zone_roles": {
+            "NOA": "Source",
+            "SOA": "External",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_045": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [NOA加压] + N-1 [lne_51_52_1]",
+        "disconnected_line": "lne_51_52_1",
+        "max_loading": 128.09,
+        "overload_lines": [
+            "lne_49_50_1",
+            "lne_53_54_1"
+        ],
+        "overload_details": {
+            "lne_49_50_1": 103.03,
+            "lne_53_54_1": 128.09
+        },
+        "zone_roles": {
+            "NOA": "Source",
+            "SOA": "External",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_046": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [NOA加压] + N-1 [lne_49_66_1]",
+        "disconnected_line": "lne_49_66_1",
+        "max_loading": 114.49,
+        "overload_lines": [
+            "lne_34_43_1",
+            "lne_37_40_1",
+            "lne_54_59_1",
+            "lne_55_59_1",
+            "lne_56_59_1"
+        ],
+        "overload_details": {
+            "lne_34_43_1": 114.49,
+            "lne_37_40_1": 103.83,
+            "lne_54_59_1": 102.95,
+            "lne_55_59_1": 105.53,
+            "lne_56_59_1": 100.94
+        },
+        "zone_roles": {
+            "NOA": "Source",
+            "SOA": "External",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_047": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [NOA加压] + N-1 [lne_54_59_1]",
+        "disconnected_line": "lne_54_59_1",
+        "max_loading": 106.58,
+        "overload_lines": [
+            "lne_49_50_1",
+            "lne_55_59_1",
+            "lne_56_59_1"
+        ],
+        "overload_details": {
+            "lne_49_50_1": 103.5,
+            "lne_55_59_1": 106.58,
+            "lne_56_59_1": 101.58
+        },
+        "zone_roles": {
+            "NOA": "Source",
+            "SOA": "External",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_048": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [NOA加压] + N-1 [lne_40_41_1]",
+        "disconnected_line": "lne_40_41_1",
+        "max_loading": 105.07,
+        "overload_lines": [
+            "lne_34_43_1",
+            "lne_40_42_1"
+        ],
+        "overload_details": {
+            "lne_34_43_1": 100.95,
+            "lne_40_42_1": 105.07
+        },
+        "zone_roles": {
+            "NOA": "Source",
+            "SOA": "External",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_049": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [NOA加压] + N-1 [lne_53_54_1]",
+        "disconnected_line": "lne_53_54_1",
+        "max_loading": 128.09,
+        "overload_lines": [
+            "lne_51_52_1"
+        ],
+        "overload_details": {
+            "lne_51_52_1": 128.09
+        },
+        "zone_roles": {
+            "NOA": "Source",
+            "SOA": "External",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_050": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [NOA加压] + N-1 [lne_39_40_1]",
+        "disconnected_line": "lne_39_40_1",
+        "max_loading": 144.17,
+        "overload_lines": [
+            "lne_34_43_1",
+            "lne_37_40_1"
+        ],
+        "overload_details": {
+            "lne_34_43_1": 100.04,
+            "lne_37_40_1": 144.17
+        },
+        "zone_roles": {
+            "NOA": "Source",
+            "SOA": "External",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_051": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [NOA加压] + N-1 [lne_64_65_1]",
+        "disconnected_line": "lne_64_65_1",
+        "max_loading": 111.27,
+        "overload_lines": [
+            "lne_34_43_1",
+            "lne_49_50_1"
+        ],
+        "overload_details": {
+            "lne_34_43_1": 102.46,
+            "lne_49_50_1": 111.27
+        },
+        "zone_roles": {
+            "NOA": "Source",
+            "SOA": "External",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_052": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [NOA加压] + N-1 [lne_100_101_1]",
+        "disconnected_line": "lne_100_101_1",
+        "max_loading": 104.87,
+        "overload_lines": [
+            "lne_94_100_1"
+        ],
+        "overload_details": {
+            "lne_94_100_1": 104.87
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "Source",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_053": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [NOA加压] + N-1 [lne_56_57_1]",
+        "disconnected_line": "lne_56_57_1",
+        "max_loading": 110.47,
+        "overload_lines": [
+            "lne_49_50_1"
+        ],
+        "overload_details": {
+            "lne_49_50_1": 110.47
+        },
+        "zone_roles": {
+            "NOA": "Source",
+            "SOA": "External",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_054": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [NOA加压] + N-1 [lne_56_59_1]",
+        "disconnected_line": "lne_56_59_1",
+        "max_loading": 106.62,
+        "overload_lines": [
+            "lne_49_50_1",
+            "lne_54_59_1",
+            "lne_55_59_1"
+        ],
+        "overload_details": {
+            "lne_49_50_1": 103.94,
+            "lne_54_59_1": 102.7,
+            "lne_55_59_1": 106.62
+        },
+        "zone_roles": {
+            "NOA": "Source",
+            "SOA": "External",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_055": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [NOA加压] + N-1 [lne_77_82_1]",
+        "disconnected_line": "lne_77_82_1",
+        "max_loading": 100.15,
+        "overload_lines": [
+            "lne_94_100_1"
+        ],
+        "overload_details": {
+            "lne_94_100_1": 100.15
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "Source",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_056": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [NOA加压] + N-1 [lne_55_56_1]",
+        "disconnected_line": "lne_55_56_1",
+        "max_loading": 100.45,
+        "overload_lines": [
+            "lne_49_50_1"
+        ],
+        "overload_details": {
+            "lne_49_50_1": 100.45
+        },
+        "zone_roles": {
+            "NOA": "Source",
+            "SOA": "External",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_057": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [NOA加压] + N-1 [lne_63_64_1]",
+        "disconnected_line": "lne_63_64_1",
+        "max_loading": 115.32,
+        "overload_lines": [
+            "lne_34_43_1",
+            "lne_49_50_1",
+            "lne_60_61_1"
+        ],
+        "overload_details": {
+            "lne_34_43_1": 100.08,
+            "lne_49_50_1": 106.31,
+            "lne_60_61_1": 115.32
+        },
+        "zone_roles": {
+            "NOA": "Source",
+            "SOA": "External",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_058": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [NOA加压] + N-1 [lne_54_56_1]",
+        "disconnected_line": "lne_54_56_1",
+        "max_loading": 110.01,
+        "overload_lines": [
+            "lne_49_50_1",
+            "lne_55_56_1"
+        ],
+        "overload_details": {
+            "lne_49_50_1": 101.41,
+            "lne_55_56_1": 110.01
+        },
+        "zone_roles": {
+            "NOA": "Source",
+            "SOA": "External",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_059": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [NOA加压] + N-1 [lne_49_51_1]",
+        "disconnected_line": "lne_49_51_1",
+        "max_loading": 131.06,
+        "overload_lines": [
+            "lne_49_50_1",
+            "lne_51_58_1",
+            "lne_55_59_1",
+            "lne_56_58_1"
+        ],
+        "overload_details": {
+            "lne_49_50_1": 116.57,
+            "lne_51_58_1": 117.52,
+            "lne_55_59_1": 102.51,
+            "lne_56_58_1": 131.06
+        },
+        "zone_roles": {
+            "NOA": "Source",
+            "SOA": "External",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_060": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [NOA加压] + N-1 [lne_25_27_1]",
+        "disconnected_line": "lne_25_27_1",
+        "max_loading": 103.68,
+        "overload_lines": [
+            "lne_23_25_1"
+        ],
+        "overload_details": {
+            "lne_23_25_1": 103.68
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "External",
+            "WOA": "Source"
+        }
+    },
+    "Limit_Scen_061": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [NOA加压] + N-1 [lne_45_49_1]",
+        "disconnected_line": "lne_45_49_1",
+        "max_loading": 104.99,
+        "overload_lines": [
+            "lne_34_43_1"
+        ],
+        "overload_details": {
+            "lne_34_43_1": 104.99
+        },
+        "zone_roles": {
+            "NOA": "Source",
+            "SOA": "External",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_062": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [NOA加压] + N-1 [lne_40_42_1]",
+        "disconnected_line": "lne_40_42_1",
+        "max_loading": 115.4,
+        "overload_lines": [
+            "lne_40_41_1"
+        ],
+        "overload_details": {
+            "lne_40_41_1": 115.4
+        },
+        "zone_roles": {
+            "NOA": "Source",
+            "SOA": "External",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_063": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [NOA加压] + N-1 [lne_49_54_1]",
+        "disconnected_line": "lne_49_54_1",
+        "max_loading": 103.94,
+        "overload_lines": [
+            "lne_49_50_1"
+        ],
+        "overload_details": {
+            "lne_49_50_1": 103.94
+        },
+        "zone_roles": {
+            "NOA": "Source",
+            "SOA": "External",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_064": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [NOA加压] + N-1 [lne_55_59_1]",
+        "disconnected_line": "lne_55_59_1",
+        "max_loading": 104.39,
+        "overload_lines": [
+            "lne_49_50_1",
+            "lne_54_59_1",
+            "lne_56_59_1"
+        ],
+        "overload_details": {
+            "lne_49_50_1": 104.09,
+            "lne_54_59_1": 104.39,
+            "lne_56_59_1": 103.29
+        },
+        "zone_roles": {
+            "NOA": "Source",
+            "SOA": "External",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_065": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [NOA加压] + N-1 [lne_23_25_1]",
+        "disconnected_line": "lne_23_25_1",
+        "max_loading": 102.2,
+        "overload_lines": [
+            "lne_34_43_1"
+        ],
+        "overload_details": {
+            "lne_34_43_1": 102.2
+        },
+        "zone_roles": {
+            "NOA": "Source",
+            "SOA": "External",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_066": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [NOA加压] + N-1 [lne_92_100_1]",
+        "disconnected_line": "lne_92_100_1",
+        "max_loading": 100.31,
+        "overload_lines": [
+            "lne_94_100_1"
+        ],
+        "overload_details": {
+            "lne_94_100_1": 100.31
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "Source",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_067": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [NOA加压] + N-1 [lne_66_67_1]",
+        "disconnected_line": "lne_66_67_1",
+        "max_loading": 140.39,
+        "overload_lines": [
+            "lne_49_50_1",
+            "lne_62_67_1"
+        ],
+        "overload_details": {
+            "lne_49_50_1": 100.81,
+            "lne_62_67_1": 140.39
+        },
+        "zone_roles": {
+            "NOA": "Source",
+            "SOA": "External",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_068": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [NOA加压] + N-1 [lne_74_75_1]",
+        "disconnected_line": "lne_74_75_1",
+        "max_loading": 108.04,
+        "overload_lines": [
+            "lne_70_75_1"
+        ],
+        "overload_details": {
+            "lne_70_75_1": 108.04
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "Source",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_069": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [NOA加压] + N-1 [lne_27_28_1]",
+        "disconnected_line": "lne_27_28_1",
+        "max_loading": 119.49,
+        "overload_lines": [
+            "lne_29_31_1"
+        ],
+        "overload_details": {
+            "lne_29_31_1": 119.49
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "External",
+            "WOA": "Source"
+        }
+    },
+    "Limit_Scen_070": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [NOA加压] + N-1 [lne_83_85_1]",
+        "disconnected_line": "lne_83_85_1",
+        "max_loading": 101.73,
+        "overload_lines": [
+            "lne_83_84_1"
+        ],
+        "overload_details": {
+            "lne_83_84_1": 101.73
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "Source",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_071": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [全局加压] + N-1 [lne_40_41_1]",
+        "disconnected_line": "lne_40_41_1",
+        "max_loading": 100.07,
+        "overload_lines": [
+            "lne_55_59_1"
+        ],
+        "overload_details": {
+            "lne_55_59_1": 100.07
+        },
+        "zone_roles": {
+            "NOA": "Source",
+            "SOA": "External",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_072": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [全局加压] + N-1 [lne_54_59_1]",
+        "disconnected_line": "lne_54_59_1",
+        "max_loading": 129.34,
+        "overload_lines": [
+            "lne_49_66_1",
+            "lne_55_59_1",
+            "lne_56_59_1"
+        ],
+        "overload_details": {
+            "lne_49_66_1": 102.21,
+            "lne_55_59_1": 129.34,
+            "lne_56_59_1": 122.52
+        },
+        "zone_roles": {
+            "NOA": "Source",
+            "SOA": "External",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_073": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [全局加压] + N-1 [lne_98_100_1]",
+        "disconnected_line": "lne_98_100_1",
+        "max_loading": 101.6,
+        "overload_lines": [
+            "lne_77_82_1"
+        ],
+        "overload_details": {
+            "lne_77_82_1": 101.6
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "Source",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_074": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [全局加压] + N-1 [lne_94_96_1]",
+        "disconnected_line": "lne_94_96_1",
+        "max_loading": 113.38,
+        "overload_lines": [
+            "lne_95_96_1"
+        ],
+        "overload_details": {
+            "lne_95_96_1": 113.38
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "Source",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_075": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [全局加压] + N-1 [lne_80_99_1]",
+        "disconnected_line": "lne_80_99_1",
+        "max_loading": 102.74,
+        "overload_lines": [
+            "lne_77_82_1"
+        ],
+        "overload_details": {
+            "lne_77_82_1": 102.74
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "Source",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_076": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [全局加压] + N-1 [lne_90_91_1]",
+        "disconnected_line": "lne_90_91_1",
+        "max_loading": 115.01,
+        "overload_lines": [
+            "lne_83_84_1",
+            "lne_89_90_1"
+        ],
+        "overload_details": {
+            "lne_83_84_1": 101.05,
+            "lne_89_90_1": 115.01
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "Source",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_077": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [全局加压] + N-1 [lne_51_52_1]",
+        "disconnected_line": "lne_51_52_1",
+        "max_loading": 136.55,
+        "overload_lines": [
+            "lne_52_53_1",
+            "lne_53_54_1",
+            "lne_54_59_1",
+            "lne_55_59_1"
+        ],
+        "overload_details": {
+            "lne_52_53_1": 105.16,
+            "lne_53_54_1": 136.55,
+            "lne_54_59_1": 102.65,
+            "lne_55_59_1": 103.52
+        },
+        "zone_roles": {
+            "NOA": "Source",
+            "SOA": "External",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_078": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [全局加压] + N-1 [lne_49_51_1]",
+        "disconnected_line": "lne_49_51_1",
+        "max_loading": 141.51,
+        "overload_lines": [
+            "lne_49_50_1",
+            "lne_51_58_1",
+            "lne_53_54_1",
+            "lne_54_59_1",
+            "lne_55_59_1",
+            "lne_56_58_1",
+            "lne_56_59_1"
+        ],
+        "overload_details": {
+            "lne_49_50_1": 104.86,
+            "lne_51_58_1": 125.21,
+            "lne_53_54_1": 105.49,
+            "lne_54_59_1": 115.7,
+            "lne_55_59_1": 118.84,
+            "lne_56_58_1": 141.51,
+            "lne_56_59_1": 113.05
+        },
+        "zone_roles": {
+            "NOA": "Source",
+            "SOA": "External",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_079": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [全局加压] + N-1 [lne_77_78_1]",
+        "disconnected_line": "lne_77_78_1",
+        "max_loading": 117.67,
+        "overload_lines": [
+            "lne_78_79_1"
+        ],
+        "overload_details": {
+            "lne_78_79_1": 117.67
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "Source",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_080": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [全局加压] + N-1 [lne_64_65_1]",
+        "disconnected_line": "lne_64_65_1",
+        "max_loading": 110.22,
+        "overload_lines": [
+            "lne_49_50_1",
+            "lne_49_66_1"
+        ],
+        "overload_details": {
+            "lne_49_50_1": 100.93,
+            "lne_49_66_1": 110.22
+        },
+        "zone_roles": {
+            "NOA": "Source",
+            "SOA": "External",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_081": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [全局加压] + N-1 [lne_8_9_1]",
+        "disconnected_line": "lne_8_9_1",
+        "max_loading": 116.25,
+        "overload_lines": [
+            "lne_49_66_1",
+            "lne_54_59_1",
+            "lne_55_59_1",
+            "lne_56_59_1"
+        ],
+        "overload_details": {
+            "lne_49_66_1": 116.25,
+            "lne_54_59_1": 105.68,
+            "lne_55_59_1": 108.25,
+            "lne_56_59_1": 102.83
+        },
+        "zone_roles": {
+            "NOA": "Source",
+            "SOA": "External",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_082": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [全局加压] + N-1 [lne_79_80_1]",
+        "disconnected_line": "lne_79_80_1",
+        "max_loading": 128.23,
+        "overload_lines": [
+            "lne_69_77_1",
+            "lne_77_80_1"
+        ],
+        "overload_details": {
+            "lne_69_77_1": 110.19,
+            "lne_77_80_1": 128.23
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "Source",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_083": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [全局加压] + N-1 [lne_53_54_1]",
+        "disconnected_line": "lne_53_54_1",
+        "max_loading": 136.55,
+        "overload_lines": [
+            "lne_51_52_1"
+        ],
+        "overload_details": {
+            "lne_51_52_1": 136.55
+        },
+        "zone_roles": {
+            "NOA": "Source",
+            "SOA": "External",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_084": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [全局加压] + N-1 [lne_69_75_1]",
+        "disconnected_line": "lne_69_75_1",
+        "max_loading": 105.04,
+        "overload_lines": [
+            "lne_69_77_1"
+        ],
+        "overload_details": {
+            "lne_69_77_1": 105.04
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "Source",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_085": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [全局加压] + N-1 [lne_77_80_1]",
+        "disconnected_line": "lne_77_80_1",
+        "max_loading": 106.03,
+        "overload_lines": [
+            "lne_69_77_1"
+        ],
+        "overload_details": {
+            "lne_69_77_1": 106.03
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "Source",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_086": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [全局加压] + N-1 [lne_56_59_1]",
+        "disconnected_line": "lne_56_59_1",
+        "max_loading": 128.97,
+        "overload_lines": [
+            "lne_49_66_1",
+            "lne_54_59_1",
+            "lne_55_56_1",
+            "lne_55_59_1"
+        ],
+        "overload_details": {
+            "lne_49_66_1": 101.84,
+            "lne_54_59_1": 124.79,
+            "lne_55_56_1": 102.44,
+            "lne_55_59_1": 128.97
+        },
+        "zone_roles": {
+            "NOA": "Source",
+            "SOA": "External",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_087": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [全局加压] + N-1 [lne_52_53_1]",
+        "disconnected_line": "lne_52_53_1",
+        "max_loading": 105.16,
+        "overload_lines": [
+            "lne_51_52_1"
+        ],
+        "overload_details": {
+            "lne_51_52_1": 105.16
+        },
+        "zone_roles": {
+            "NOA": "Source",
+            "SOA": "External",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_088": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [全局加压] + N-1 [lne_89_90_1]",
+        "disconnected_line": "lne_89_90_1",
+        "max_loading": 122.91,
+        "overload_lines": [
+            "lne_90_91_1",
+            "lne_91_92_1"
+        ],
+        "overload_details": {
+            "lne_90_91_1": 115.01,
+            "lne_91_92_1": 122.91
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "Source",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_089": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [全局加压] + N-1 [lne_37_39_1]",
+        "disconnected_line": "lne_37_39_1",
+        "max_loading": 124.37,
+        "overload_lines": [
+            "lne_37_40_1",
+            "lne_55_59_1"
+        ],
+        "overload_details": {
+            "lne_37_40_1": 124.37,
+            "lne_55_59_1": 100.16
+        },
+        "zone_roles": {
+            "NOA": "Source",
+            "SOA": "External",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_090": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [全局加压] + N-1 [lne_63_64_1]",
+        "disconnected_line": "lne_63_64_1",
+        "max_loading": 117.15,
+        "overload_lines": [
+            "lne_49_66_1",
+            "lne_60_61_1"
+        ],
+        "overload_details": {
+            "lne_49_66_1": 104.88,
+            "lne_60_61_1": 117.15
+        },
+        "zone_roles": {
+            "NOA": "Source",
+            "SOA": "External",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_091": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [全局加压] + N-1 [lne_25_27_1]",
+        "disconnected_line": "lne_25_27_1",
+        "max_loading": 116.4,
+        "overload_lines": [
+            "lne_29_31_1",
+            "lne_32_114_1"
+        ],
+        "overload_details": {
+            "lne_29_31_1": 116.4,
+            "lne_32_114_1": 104.88
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "External",
+            "WOA": "Source"
+        }
+    },
+    "Limit_Scen_092": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [全局加压] + N-1 [lne_69_77_1]",
+        "disconnected_line": "lne_69_77_1",
+        "max_loading": 139.27,
+        "overload_lines": [
+            "lne_77_80_1",
+            "lne_78_79_1"
+        ],
+        "overload_details": {
+            "lne_77_80_1": 139.27,
+            "lne_78_79_1": 113.17
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "Source",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_093": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [全局加压] + N-1 [lne_26_30_1]",
+        "disconnected_line": "lne_26_30_1",
+        "max_loading": 136.35,
+        "overload_lines": [
+            "lne_23_25_1",
+            "lne_25_27_1"
+        ],
+        "overload_details": {
+            "lne_23_25_1": 136.35,
+            "lne_25_27_1": 112.02
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "External",
+            "WOA": "Source"
+        }
+    },
+    "Limit_Scen_094": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [全局加压] + N-1 [lne_55_59_1]",
+        "disconnected_line": "lne_55_59_1",
+        "max_loading": 127.06,
+        "overload_lines": [
+            "lne_49_66_1",
+            "lne_54_59_1",
+            "lne_56_59_1"
+        ],
+        "overload_details": {
+            "lne_49_66_1": 102.29,
+            "lne_54_59_1": 127.06,
+            "lne_56_59_1": 124.43
+        },
+        "zone_roles": {
+            "NOA": "Source",
+            "SOA": "External",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_095": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [全局加压] + N-1 [lne_85_89_1]",
+        "disconnected_line": "lne_85_89_1",
+        "max_loading": 101.08,
+        "overload_lines": [
+            "lne_85_88_1"
+        ],
+        "overload_details": {
+            "lne_85_88_1": 101.08
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "Source",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_096": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [全局加压] + N-1 [lne_105_108_1]",
+        "disconnected_line": "lne_105_108_1",
+        "max_loading": 146.71,
+        "overload_lines": [
+            "lne_109_110_1"
+        ],
+        "overload_details": {
+            "lne_109_110_1": 146.71
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "Source",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_097": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [全局加压] + N-1 [lne_82_83_1]",
+        "disconnected_line": "lne_82_83_1",
+        "max_loading": 114.47,
+        "overload_lines": [
+            "lne_91_92_1",
+            "lne_94_96_1",
+            "lne_95_96_1"
+        ],
+        "overload_details": {
+            "lne_91_92_1": 102.27,
+            "lne_94_96_1": 113.55,
+            "lne_95_96_1": 114.47
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "Source",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_098": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [全局加压] + N-1 [lne_49_54_1]",
+        "disconnected_line": "lne_49_54_1",
+        "max_loading": 103.18,
+        "overload_lines": [
+            "lne_54_59_1",
+            "lne_55_59_1"
+        ],
+        "overload_details": {
+            "lne_54_59_1": 101.21,
+            "lne_55_59_1": 103.18
+        },
+        "zone_roles": {
+            "NOA": "Source",
+            "SOA": "External",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_099": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [全局加压] + N-1 [lne_91_92_1]",
+        "disconnected_line": "lne_91_92_1",
+        "max_loading": 122.91,
+        "overload_lines": [
+            "lne_82_83_1",
+            "lne_83_84_1",
+            "lne_89_90_1"
+        ],
+        "overload_details": {
+            "lne_82_83_1": 100.69,
+            "lne_83_84_1": 103.25,
+            "lne_89_90_1": 122.91
+        },
+        "zone_roles": {
+            "NOA": "External",
+            "SOA": "Source",
+            "WOA": "External"
+        }
+    },
+    "Limit_Scen_100": {
+        "category": "Case_D",
+        "description": "纯内部单区越限",
+        "stress_mode": "LHS [全局加压] + N-1 [lne_54_56_1]",
+        "disconnected_line": "lne_54_56_1",
+        "max_loading": 101.11,
+        "overload_lines": [
+            "lne_55_59_1"
+        ],
+        "overload_details": {
+            "lne_55_59_1": 101.11
+        },
+        "zone_roles": {
+            "NOA": "Source",
+            "SOA": "External",
+            "WOA": "External"
+        }
+    }
+}

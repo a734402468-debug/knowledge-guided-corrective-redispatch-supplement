@@ -1,0 +1,10 @@
+metric,numerator,denominator,pct
+parseable_outputs,90,90,100.0
+runtime_admissible_complete_generator_coverage,83,90,92.2
+area_role_exact,90,90,100.0
+semantic_variant_success,36,36,100.0
+all_three_call_semantic_consistency,24,30,80.0
+pairwise_semantic_consistency,77,90,85.6
+checker_status_consistency,28,30,93.3
+whole_output_gate_exact,51,90,56.7
+checker_accepted_with_at_least_one_offline_semantic_mismatch,32,83,38.6

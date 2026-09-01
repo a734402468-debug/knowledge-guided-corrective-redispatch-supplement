@@ -1,0 +1,15 @@
+component,median_s,mean_s,p95_s
+mapping_compilation_s,0.0001,0.0001,0.0001
+http_round_trip_s,11.7433,11.9756,13.8334
+worker_total_s,11.7299,11.9615,13.8191
+core_slp_total_s,1.6551,1.8298,3.604
+dc_opf_total_s,0.2271,0.2588,0.5633
+dbupdate_total_s,0.0872,0.1034,0.2115
+ac_validation_total_s,0.1186,0.1412,0.3167
+active_set_update_total_s,0.0392,0.0482,0.1081
+restore_s,0.0994,0.1006,0.1143
+transport_service_overhead_s,0.0141,0.0141,0.0153
+setup_and_weight_injection_s,10.0158,10.0305,10.4154
+first_round_ac_settlement_s,0.1099,0.1104,0.1251
+final_snapshot_s,0.0002,0.0003,0.0005
+llm_inference_s,130.4688,145.5904,240.9941

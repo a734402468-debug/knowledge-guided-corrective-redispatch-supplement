@@ -4,15 +4,13 @@ This folder provides compact verification data for the LLM-assisted priority-lab
 
 ## Files
 
-- `table2_label_verification_summary.csv`: aggregate results used for the paper's LLM label-verification table.
-- `real_operating_input_label_results.csv`: detailed results for real operating metadata inputs.
+- `table3_label_verification_summary.csv`: aggregate results reported in the revised manuscript's Table 3.
+- `real_operating_input_label_results.csv`: detailed results for scenario-derived operating inputs.
 - `equivalent_wording_variant_results.csv`: results for equivalent-guideline-wording tests.
-- `label_mismatch_cases.csv`: rejected or mismatched cases for audit.
+- `label_mismatch_cases.csv`: checker-rejected or reference-mismatched cases for audit.
+- `repeatability_summary.csv`: repeated-call consistency and whole-output exactness.
 - `llm_verification_column_dictionary.csv`: column definitions.
 
+## Interpretation
 
-## Notes
-
-These files are intended to support the reported label-generation reliability results
-without uploading a large number of raw LLM logs. The prompt, output template/schema,
-and deterministic checker rules are provided separately in `prompts_and_schema/`.
+Checker acceptance and semantic label agreement are reported separately. A checker-accepted output can still contain a mismatch relative to the frozen guideline-derived rule table. The prompt, schemas, and deterministic checker rules are provided in `prompts_and_schema/`.

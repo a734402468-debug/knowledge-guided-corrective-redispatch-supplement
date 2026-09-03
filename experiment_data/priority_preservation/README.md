@@ -1,12 +1,12 @@
-# Fixed-Topology Priority-Preservation Study
+# Fixed-topology priority-preservation study
 
-This folder contains the archived scenario-level and generator-level results used for Figure 6 and the fixed-topology analysis in Section 4.4.
+This folder supports Figure 6 and Section 4.4.
 
 ## Files
 
-- `scenario_summary.csv`: method outcomes and scenario-level metrics.
-- `dispatch_actions_long.csv`: generator-level redispatch actions in long format.
-- `label_activation_by_scenario.csv`: scenario-level priority activation shares.
-- `source_manifest.csv`: source-file and scenario provenance fields used to assemble the cleaned tables.
+- `scenario_summary.csv`: method outcomes and scenario metrics.
+- `dispatch_actions_long.csv`: generator-level first-round redispatch actions.
+- `label_activation_by_scenario.csv`: priority activation shares by scenario.
+- `source_manifest.csv`: source-file hashes.
 
-Cases without an AC-valid corrective dispatch are retained in the scenario summaries and appear as gray cells in the manuscript heatmap. Priority-composition averages are conditional on the denominator stated in the manuscript.
+Priority shares exclude G65, the slack generator; the raw dispatch file retains its records. Cases without an AC-valid dispatch remain in the tables and appear as gray cells in Figure 6.

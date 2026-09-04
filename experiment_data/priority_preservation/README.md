@@ -4,9 +4,8 @@ This folder supports Figure 6 and Section 4.4.
 
 ## Files
 
-- `scenario_summary.csv`: method outcomes and scenario metrics.
-- `dispatch_actions_long.csv`: generator-level first-round redispatch actions.
+- `aggregate_summary.csv`: values reported for the three methods.
+- `scenario_summary.csv`: AC-valid outcomes and scenario-level metrics.
 - `label_activation_by_scenario.csv`: priority activation shares by scenario.
-- `source_manifest.csv`: source-file hashes.
 
-Priority shares exclude G65, the slack generator; the raw dispatch file retains its records. Cases without an AC-valid dispatch remain in the tables and appear as gray cells in Figure 6.
+Each method contains 100 cases. `is_success` records the final all-line AC validation outcome. EZAD and the priority shares are computed from the first-round commanded redispatch after excluding G65 slack-bus balancing. Under the frozen rule realization used in this study, External-area directions are Level 1; therefore `ezad_percent` equals the Level 1 commanded share. Cases without an AC-valid dispatch remain in the case tables and appear as gray cells in Figure 6.

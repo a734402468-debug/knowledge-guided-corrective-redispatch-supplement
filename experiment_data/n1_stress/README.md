@@ -12,11 +12,10 @@ This folder supports Tables 4--5, Figure 7, and Section 4.5.
 ## Files
 
 - `scenario_labels.json`: frozen case manifest.
-- `scenario_summary.csv`: method outcomes and scenario metrics.
-- `dispatch_actions_long.csv`: generator-level first-round redispatch actions.
+- `aggregate_summary.csv`: values reported for the three methods.
+- `scenario_summary.csv`: AC-valid outcomes and scenario-level metrics.
 - `label_activation_by_scenario.csv`: priority activation shares by scenario.
-- `source_manifest.csv`: source-file hashes.
 - `benchmark_audit.txt`: benchmark checks.
 - `stratified_results.csv`: AC-valid rates by stressed operating profile.
 
-Priority shares exclude G65, the slack generator; the raw dispatch file retains its records. The historical LHS seed and exact retained per-load multipliers were not preserved, so the original candidate-state pool cannot be regenerated exactly.
+Each method contains the same 100 retained cases. `ezad_percent` is computed from the External-area generator sets specified by `zone_roles` in `scenario_labels.json`. EZAD and the priority shares use the first-round commanded redispatch and exclude G65 slack-bus balancing. The historical LHS seed and exact retained per-load multipliers were not preserved, so the original candidate-state pool cannot be regenerated exactly.

@@ -1,0 +1,4 @@
+﻿method,total_cases,ac_valid_cases,ac_valid_rate_percent,mean_ezad_all_cases_percent,mean_ezad_ac_valid_cases_percent,mean_level1_share_ac_valid_percent,mean_level2_share_ac_valid_percent,mean_level3_share_ac_valid_percent,mean_level4_share_ac_valid_percent,mean_level1_plus_level2_share_ac_valid_percent
+Baseline 1,100,51,51,35.48111,53.098807,53.74004,9.973951,16.976851,19.309158,63.713991
+Baseline 2,100,39,39,0,0,0,0.221575,16.783115,82.99531,0.221575
+Proposed,100,59,59,0.059525,0,0,0.055315,11.617254,88.32743,0.055315

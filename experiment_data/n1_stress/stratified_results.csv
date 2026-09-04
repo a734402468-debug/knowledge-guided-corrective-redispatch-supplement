@@ -1,5 +1,5 @@
-operating_state,n,pure_success,pure_pct,hard_success,hard_pct,proposed_success,proposed_pct,proposed_minus_pure_pp,proposed_minus_hard_pp
-SOA-stressed,36,15,41.7,18,50.0,18,50.0,8.3,0.0
+﻿operating_state,n,pure_success,pure_pct,hard_success,hard_pct,proposed_success,proposed_pct,proposed_minus_pure_pp,proposed_minus_hard_pp
+SOA-stressed,36,15,41.7,17,47.2,18,50,8.3,2.8
 NOA-stressed,34,23,67.6,19,55.9,25,73.5,5.9,17.6
-Global-stressed,30,13,43.3,3,10.0,16,53.3,10.0,43.3
-Overall,100,51,51.0,40,40.0,59,59.0,8.0,19.0
+Global-stressed,30,13,43.3,3,10,16,53.3,10,43.3
+Overall,100,51,51,39,39,59,59,8,20

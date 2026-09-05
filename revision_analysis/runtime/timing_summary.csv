@@ -1,5 +1,5 @@
 component,median_s,mean_s,p95_s
-mapping_compilation_s,0.0001,0.0001,0.0001
+mapping_compilation_s,6.82875e-05,7.33827e-05,1.45601e-04
 http_round_trip_s,11.7433,11.9756,13.8334
 worker_total_s,11.7299,11.9615,13.8191
 core_slp_total_s,1.6551,1.8298,3.604

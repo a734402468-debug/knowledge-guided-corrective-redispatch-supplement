@@ -15,8 +15,8 @@ The main experiment tables use the manuscript-version records from [efcda6f](htt
 | `experiment_data/llm_label_verification_clean/` | Data for the label-verification results |
 | `experiment_data/feasibility_stress/` | Aggregate results for the 64-case feasibility study |
 | `experiment_data/priority_preservation/` | Fixed-topology case records and reported summaries |
-| `experiment_data/n1_stress/` | Manuscript N-1 results and separately identified archived metadata |
-| `revision_analysis/` | Parameter, common-subset, first-to-final, representative-case, and runtime summaries |
+| `experiment_data/n1_stress/` | N-1 case results, dispatch records, and area roles |
+| `revision_analysis/` | Common-subset metrics and representative cases from the main experiment |
 
 ## Metric conventions
 
@@ -28,6 +28,6 @@ The main experiment tables use the manuscript-version records from [efcda6f](htt
 
 ## Data limits
 
-The full DIgSILENT PowerFactory project is not included. The N-1 folder distinguishes the manuscript's sampling description from the later archived manifest; the latter does not reproduce the original sampling pool.
+The full DIgSILENT PowerFactory project is not included. The N-1 area-role file supports EZAD calculation and is not a complete operating-state or contingency manifest.
 
 The historical LHS seed and exact retained per-load multipliers were not preserved. The dispatch records support recomputation of the reported participation metrics. The feasibility-stress folder contains aggregate counts only.

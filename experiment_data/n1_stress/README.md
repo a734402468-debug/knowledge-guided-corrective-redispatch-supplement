@@ -15,12 +15,12 @@ The result tables reproduce the manuscript-version records for Table 4 and Figur
 - `scenario_summary.csv`: manuscript-version outcomes and scenario-level metrics.
 - `label_activation_by_scenario.csv`: priority activation shares by scenario.
 - `dispatch_actions_long.csv`: manuscript-version generator-level dispatch records, including G65.
-- `scenario_labels.json`: archived case metadata and area roles.
-- `benchmark_audit.txt`: checks of the archived manifest.
-- `stratified_results.csv`: later AC-valid audit by archived operating profile; this file uses the later 39/100 Baseline 2 result.
+- `scenario_zone_roles.json`: area roles for each case, used to identify External areas in the EZAD calculation.
 
 Each method contains 100 cases. The manuscript-version AC-valid counts are 51, 40, and 59 for Baseline 1, Baseline 2, and the proposed method. EZAD uses the External-area generator sets specified by `zone_roles`; priority shares use the realized directional labels. Both exclude G65 slack-bus balancing.
 
-## Archive coverage
+## Data coverage
 
-The archived manifest records three frozen operating states and a loading range of 100.07%--148.98%. It does not reproduce the sampling description in Table 3. The original LHS seed and retained per-load multipliers are unavailable, and the manuscript-version scenario records contain no initial loading values. These fields remain empty rather than being filled from the later manifest.
+The area roles are retained unchanged from the [archived scenario labels](https://github.com/a734402468-debug/knowledge-guided-corrective-redispatch-supplement/blob/96db066b5629d0c5122eff1485224340338f46ad/experiment_data/n1_stress/scenario_labels.json). The file contains no operating-point or outage reconstruction data.
+
+The original LHS seed and retained per-load multipliers are unavailable. The manuscript-version scenario records contain no initial loading values, so those fields remain empty. The available files do not independently reproduce the sampling description in Table 3.

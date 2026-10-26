@@ -1,0 +1,702 @@
+{
+  "Limit_Scen_001": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "Source",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_002": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "Source",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_003": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "Source",
+      "WOA": "Source"
+    }
+  },
+  "Limit_Scen_004": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "Source",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_005": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "Source",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_006": {
+    "zone_roles": {
+      "NOA": "Source",
+      "SOA": "External",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_007": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "Source",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_008": {
+    "zone_roles": {
+      "NOA": "Source",
+      "SOA": "External",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_009": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "Source",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_010": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "External",
+      "WOA": "Source"
+    }
+  },
+  "Limit_Scen_011": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "Source",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_012": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "Source",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_013": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "Source",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_014": {
+    "zone_roles": {
+      "NOA": "Source",
+      "SOA": "External",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_015": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "Source",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_016": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "External",
+      "WOA": "Source"
+    }
+  },
+  "Limit_Scen_017": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "Source",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_018": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "Source",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_019": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "Source",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_020": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "Source",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_021": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "Source",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_022": {
+    "zone_roles": {
+      "NOA": "Source",
+      "SOA": "External",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_023": {
+    "zone_roles": {
+      "NOA": "Source",
+      "SOA": "External",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_024": {
+    "zone_roles": {
+      "NOA": "Source",
+      "SOA": "External",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_025": {
+    "zone_roles": {
+      "NOA": "Source",
+      "SOA": "Source",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_026": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "Source",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_027": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "Source",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_028": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "Source",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_029": {
+    "zone_roles": {
+      "NOA": "Source",
+      "SOA": "External",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_030": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "Source",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_031": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "Source",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_032": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "Source",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_033": {
+    "zone_roles": {
+      "NOA": "Source",
+      "SOA": "External",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_034": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "Source",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_035": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "Source",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_036": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "Source",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_037": {
+    "zone_roles": {
+      "NOA": "Source",
+      "SOA": "External",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_038": {
+    "zone_roles": {
+      "NOA": "Source",
+      "SOA": "External",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_039": {
+    "zone_roles": {
+      "NOA": "Source",
+      "SOA": "External",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_040": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "External",
+      "WOA": "Source"
+    }
+  },
+  "Limit_Scen_041": {
+    "zone_roles": {
+      "NOA": "Source",
+      "SOA": "External",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_042": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "Source",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_043": {
+    "zone_roles": {
+      "NOA": "Source",
+      "SOA": "External",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_044": {
+    "zone_roles": {
+      "NOA": "Source",
+      "SOA": "External",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_045": {
+    "zone_roles": {
+      "NOA": "Source",
+      "SOA": "External",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_046": {
+    "zone_roles": {
+      "NOA": "Source",
+      "SOA": "External",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_047": {
+    "zone_roles": {
+      "NOA": "Source",
+      "SOA": "External",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_048": {
+    "zone_roles": {
+      "NOA": "Source",
+      "SOA": "External",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_049": {
+    "zone_roles": {
+      "NOA": "Source",
+      "SOA": "External",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_050": {
+    "zone_roles": {
+      "NOA": "Source",
+      "SOA": "External",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_051": {
+    "zone_roles": {
+      "NOA": "Source",
+      "SOA": "External",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_052": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "Source",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_053": {
+    "zone_roles": {
+      "NOA": "Source",
+      "SOA": "External",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_054": {
+    "zone_roles": {
+      "NOA": "Source",
+      "SOA": "External",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_055": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "Source",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_056": {
+    "zone_roles": {
+      "NOA": "Source",
+      "SOA": "External",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_057": {
+    "zone_roles": {
+      "NOA": "Source",
+      "SOA": "External",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_058": {
+    "zone_roles": {
+      "NOA": "Source",
+      "SOA": "External",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_059": {
+    "zone_roles": {
+      "NOA": "Source",
+      "SOA": "External",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_060": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "External",
+      "WOA": "Source"
+    }
+  },
+  "Limit_Scen_061": {
+    "zone_roles": {
+      "NOA": "Source",
+      "SOA": "External",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_062": {
+    "zone_roles": {
+      "NOA": "Source",
+      "SOA": "External",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_063": {
+    "zone_roles": {
+      "NOA": "Source",
+      "SOA": "External",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_064": {
+    "zone_roles": {
+      "NOA": "Source",
+      "SOA": "External",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_065": {
+    "zone_roles": {
+      "NOA": "Source",
+      "SOA": "External",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_066": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "Source",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_067": {
+    "zone_roles": {
+      "NOA": "Source",
+      "SOA": "External",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_068": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "Source",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_069": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "External",
+      "WOA": "Source"
+    }
+  },
+  "Limit_Scen_070": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "Source",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_071": {
+    "zone_roles": {
+      "NOA": "Source",
+      "SOA": "External",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_072": {
+    "zone_roles": {
+      "NOA": "Source",
+      "SOA": "External",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_073": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "Source",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_074": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "Source",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_075": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "Source",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_076": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "Source",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_077": {
+    "zone_roles": {
+      "NOA": "Source",
+      "SOA": "External",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_078": {
+    "zone_roles": {
+      "NOA": "Source",
+      "SOA": "External",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_079": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "Source",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_080": {
+    "zone_roles": {
+      "NOA": "Source",
+      "SOA": "External",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_081": {
+    "zone_roles": {
+      "NOA": "Source",
+      "SOA": "External",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_082": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "Source",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_083": {
+    "zone_roles": {
+      "NOA": "Source",
+      "SOA": "External",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_084": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "Source",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_085": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "Source",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_086": {
+    "zone_roles": {
+      "NOA": "Source",
+      "SOA": "External",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_087": {
+    "zone_roles": {
+      "NOA": "Source",
+      "SOA": "External",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_088": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "Source",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_089": {
+    "zone_roles": {
+      "NOA": "Source",
+      "SOA": "External",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_090": {
+    "zone_roles": {
+      "NOA": "Source",
+      "SOA": "External",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_091": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "External",
+      "WOA": "Source"
+    }
+  },
+  "Limit_Scen_092": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "Source",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_093": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "External",
+      "WOA": "Source"
+    }
+  },
+  "Limit_Scen_094": {
+    "zone_roles": {
+      "NOA": "Source",
+      "SOA": "External",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_095": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "Source",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_096": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "Source",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_097": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "Source",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_098": {
+    "zone_roles": {
+      "NOA": "Source",
+      "SOA": "External",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_099": {
+    "zone_roles": {
+      "NOA": "External",
+      "SOA": "Source",
+      "WOA": "External"
+    }
+  },
+  "Limit_Scen_100": {
+    "zone_roles": {
+      "NOA": "Source",
+      "SOA": "External",
+      "WOA": "External"
+    }
+  }
+}

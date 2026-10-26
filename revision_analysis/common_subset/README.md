@@ -1,5 +1,5 @@
 # Common AC-Valid Subset Analysis
 
-`common_subset_summary.csv` reports the Table 6 metrics on identical cases that obtain an AC-valid corrective dispatch under all three methods. It addresses the possible selection effect caused by method-specific convergence denominators.
+`common_subset_summary.csv` reports priority metrics on the same cases accepted by all three methods, using the manuscript-version records in `experiment_data/`.
 
-The case-matched analysis complements the all-case AC-valid convergence rates. The common subsets contain 47 fixed-topology cases and 31 operating-point and topology N-1 cases.
+The common subsets contain 48 fixed-topology cases and 32 operating-point and topology N-1 cases. These metrics complement the all-case AC-valid rates.

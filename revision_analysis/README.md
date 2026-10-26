@@ -1,9 +1,9 @@
 # Additional analyses
 
-This folder contains the analyses reported with the revised manuscript.
+This folder contains additional archived analyses. The main manuscript results are in `experiment_data/`.
 
 - `parameter_sensitivity/`: separation-factor and PTDF-threshold results.
-- `first_to_final/`: first-round and final redispatch comparison.
+- `first_to_final/`: archived first-round and final redispatch comparison; its first-round records differ from the main experiment tables.
 - `representative_cases/`: two fixed-topology examples.
 - `common_subset/`: case-matched priority metrics.
 - `runtime/`: prototype timing summary.

@@ -1,4 +1,4 @@
-﻿method,total_cases,ac_valid_cases,ac_valid_rate_percent,mean_ezad_all_cases_percent,mean_ezad_ac_valid_cases_percent,mean_level1_share_ac_valid_percent,mean_level2_share_ac_valid_percent,mean_level3_share_ac_valid_percent,mean_level4_share_ac_valid_percent,mean_level1_plus_level2_share_ac_valid_percent
+method,total_cases,ac_valid_cases,ac_valid_rate_percent,mean_ezad_all_cases_percent,mean_ezad_ac_valid_cases_percent,mean_level1_share_ac_valid_percent,mean_level2_share_ac_valid_percent,mean_level3_share_ac_valid_percent,mean_level4_share_ac_valid_percent,mean_level1_plus_level2_share_ac_valid_percent
 Baseline 1,100,82,82,54.973304,57.122463,57.122463,14.904645,6.970247,21.002645,72.027108
-Baseline 2,100,53,53,0,0,0,0.037423,27.727448,72.235128,0.037423
+Baseline 2,100,54,54,0,0,0,0.03673,27.188211,72.775059,0.03673
 Proposed,100,88,88,3.675694,4.113854,4.113854,0.890142,19.189713,75.806291,5.003996

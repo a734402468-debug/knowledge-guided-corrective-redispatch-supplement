@@ -1,7 +1,7 @@
-﻿scenario_set,common_subset_size,method,mean_ezad_percent,mean_level1_plus_level2_percent
-Fixed topology,47,Baseline 1,48.779,64.433
-Fixed topology,47,Baseline 2,0,0.042
-Fixed topology,47,Proposed,0.645,0.687
-Operating-point and topology N-1,31,Baseline 1,53.845,64.96
-Operating-point and topology N-1,31,Baseline 2,0,0.105
-Operating-point and topology N-1,31,Proposed,0,0.105
+scenario_set,common_subset_size,method,mean_ezad_percent,mean_level1_plus_level2_percent
+Fixed topology,48,Baseline 1,48.006,64.774
+Fixed topology,48,Baseline 2,0,0.041
+Fixed topology,48,Proposed,0.631,0.673
+Operating-point and topology N-1,32,Baseline 1,54.744,65.512
+Operating-point and topology N-1,32,Baseline 2,0,0.102
+Operating-point and topology N-1,32,Proposed,0,0.102

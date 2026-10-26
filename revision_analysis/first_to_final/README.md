@@ -1,6 +1,6 @@
 # First-Round versus Final AC-Valid Redispatch
 
-This analysis covers the 88 fixed-topology cases in which the proposed method obtained an AC-valid final dispatch.
+This archive contains 88 fixed-topology cases with an AC-valid final dispatch. Its first-round EZAD and Level 1+Level 2 values differ from the main experiment table in 13 cases. It is retained separately and is not used to reproduce Figure 6; matching case identifiers do not establish the same execution record.
 
 - active-priority-tier set unchanged: 68/88 (77.3%);
 - binary Level 1/Level 2 participation status unchanged: 75/88 (85.2%);

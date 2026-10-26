@@ -1,0 +1,3 @@
+Test group,Outputs,Parseable,Full generator coverage,Accepted by checker,Exact area-role assignment,Mean per-output priority-label accuracy
+Scenario-derived operating inputs,90,90/90,83/90,83/90,90/90,96.9%
+Equivalent guideline phrasings,36,36/36,36/36,36/36,36/36,100.0%

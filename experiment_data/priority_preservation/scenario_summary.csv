@@ -1,4 +1,4 @@
-﻿section_id,scenario_id,scenario_index,method,dc_feasible,is_success,slp_converged,total_iterations,iteration_records,initial_max_loading_percent,ezad_percent,total_abs_dispatch_mw,moving_generators_count,level1_share,level2_share,level3_share,level4_share,level1_plus_level2_share
+section_id,scenario_id,scenario_index,method,dc_feasible,is_success,slp_converged,total_iterations,iteration_records,initial_max_loading_percent,ezad_percent,total_abs_dispatch_mw,moving_generators_count,level1_share,level2_share,level3_share,level4_share,level1_plus_level2_share
 S1_Batch_Results_priority_preservation,Limit_Scen_001,001,baseline_1_pure_opf,0,0,0,-1,0,,0,0,0,0,0,0,0,0
 S1_Batch_Results_priority_preservation,Limit_Scen_002,002,baseline_1_pure_opf,1,1,1,3,3,,77.023567,152.33,3,77.023567,0,0,22.976433,77.023567
 S1_Batch_Results_priority_preservation,Limit_Scen_003,003,baseline_1_pure_opf,1,1,1,4,4,,85.849962,416.96,8,85.849962,0,0,14.150038,85.849962
@@ -107,8 +107,8 @@ S1_Batch_Results_priority_preservation,Limit_Scen_005,005,baseline_2_hard_rule,0
 S1_Batch_Results_priority_preservation,Limit_Scen_006,006,baseline_2_hard_rule,0,0,0,-1,0,,0,0,0,0,0,0,0,0
 S1_Batch_Results_priority_preservation,Limit_Scen_007,007,baseline_2_hard_rule,0,0,0,-1,0,,0,0,0,0,0,0,0,0
 S1_Batch_Results_priority_preservation,Limit_Scen_008,008,baseline_2_hard_rule,1,1,1,3,3,,0,285.88,8,0,0,36.823143,63.176857,0
-S1_Batch_Results_priority_preservation,Limit_Scen_009,009,baseline_2_hard_rule,1,0,0,-1,10,,0,385.44,10,0,0,0,100,0
-S1_Batch_Results_priority_preservation,Limit_Scen_010,010,baseline_2_hard_rule,1,1,1,2,2,,0,313.17,9,0,0,20.369129,79.630871,0
+S1_Batch_Results_priority_preservation,Limit_Scen_009,009,baseline_2_hard_rule,1,1,1,3,3,,0,385.44,10,0,0,0,100,0
+S1_Batch_Results_priority_preservation,Limit_Scen_010,010,baseline_2_hard_rule,1,1,1,4,4,,0,290.47,9,0,0,23.207216,76.792784,0
 S1_Batch_Results_priority_preservation,Limit_Scen_011,011,baseline_2_hard_rule,1,1,1,2,2,,0,266.58,10,0,0,0,100,0
 S1_Batch_Results_priority_preservation,Limit_Scen_012,012,baseline_2_hard_rule,1,1,1,7,7,,0,371.59,9,0,0,0,100,0
 S1_Batch_Results_priority_preservation,Limit_Scen_013,013,baseline_2_hard_rule,1,1,1,5,5,,0,320.68,9,0,0,30.681676,69.318324,0
@@ -120,7 +120,7 @@ S1_Batch_Results_priority_preservation,Limit_Scen_018,018,baseline_2_hard_rule,0
 S1_Batch_Results_priority_preservation,Limit_Scen_019,019,baseline_2_hard_rule,0,0,0,-1,0,,0,0,0,0,0,0,0,0
 S1_Batch_Results_priority_preservation,Limit_Scen_020,020,baseline_2_hard_rule,0,0,0,-1,0,,0,0,0,0,0,0,0,0
 S1_Batch_Results_priority_preservation,Limit_Scen_021,021,baseline_2_hard_rule,0,0,0,-1,0,,0,0,0,0,0,0,0,0
-S1_Batch_Results_priority_preservation,Limit_Scen_022,022,baseline_2_hard_rule,1,1,1,2,2,,0,650.69,13,0,0,32.636125,67.363875,0
+S1_Batch_Results_priority_preservation,Limit_Scen_022,022,baseline_2_hard_rule,1,1,1,2,2,,0,649.85,13,0,0,32.442871,67.557129,0
 S1_Batch_Results_priority_preservation,Limit_Scen_023,023,baseline_2_hard_rule,0,0,0,-1,0,,0,0,0,0,0,0,0,0
 S1_Batch_Results_priority_preservation,Limit_Scen_024,024,baseline_2_hard_rule,1,1,1,4,4,,0,339.56,9,0,0,31.505478,68.494522,0
 S1_Batch_Results_priority_preservation,Limit_Scen_025,025,baseline_2_hard_rule,0,0,0,-1,0,,0,0,0,0,0,0,0,0
@@ -132,7 +132,7 @@ S1_Batch_Results_priority_preservation,Limit_Scen_030,030,baseline_2_hard_rule,0
 S1_Batch_Results_priority_preservation,Limit_Scen_031,031,baseline_2_hard_rule,1,1,1,3,3,,0,255.33,9,0,0,34.461285,65.538715,0
 S1_Batch_Results_priority_preservation,Limit_Scen_032,032,baseline_2_hard_rule,0,0,0,-1,0,,0,0,0,0,0,0,0,0
 S1_Batch_Results_priority_preservation,Limit_Scen_033,033,baseline_2_hard_rule,1,1,1,3,3,,0,307.6,8,0,0,44.882965,55.117035,0
-S1_Batch_Results_priority_preservation,Limit_Scen_034,034,baseline_2_hard_rule,1,0,0,-1,1,,0,334.96,10,0,0,0,100,0
+S1_Batch_Results_priority_preservation,Limit_Scen_034,034,baseline_2_hard_rule,1,0,0,-1,1,,0,332.28,8,0,0,0,100,0
 S1_Batch_Results_priority_preservation,Limit_Scen_035,035,baseline_2_hard_rule,1,1,1,4,4,,0,519.14,9,0,0,55.206688,44.793312,0
 S1_Batch_Results_priority_preservation,Limit_Scen_036,036,baseline_2_hard_rule,1,1,1,3,3,,0,490.24,9,0,0,50.430401,49.569599,0
 S1_Batch_Results_priority_preservation,Limit_Scen_037,037,baseline_2_hard_rule,1,0,0,-1,1,,0,276.37,6,0,0,0,100,0
@@ -145,16 +145,16 @@ S1_Batch_Results_priority_preservation,Limit_Scen_043,043,baseline_2_hard_rule,1
 S1_Batch_Results_priority_preservation,Limit_Scen_044,044,baseline_2_hard_rule,0,0,0,-1,0,,0,0,0,0,0,0,0,0
 S1_Batch_Results_priority_preservation,Limit_Scen_045,045,baseline_2_hard_rule,1,1,1,5,5,,0,415.47,10,0,0,36.125352,63.874648,0
 S1_Batch_Results_priority_preservation,Limit_Scen_046,046,baseline_2_hard_rule,1,1,1,3,3,,0,397.12,7,0,0,52.314162,47.685838,0
-S1_Batch_Results_priority_preservation,Limit_Scen_047,047,baseline_2_hard_rule,1,1,1,3,3,,0,367.36,8,0,0,0,100,0
+S1_Batch_Results_priority_preservation,Limit_Scen_047,047,baseline_2_hard_rule,1,1,1,3,3,,0,367.37,7,0,0,0,100,0
 S1_Batch_Results_priority_preservation,Limit_Scen_048,048,baseline_2_hard_rule,1,1,1,2,2,,0,404.08,8,0,0,50.002475,49.997525,0
 S1_Batch_Results_priority_preservation,Limit_Scen_049,049,baseline_2_hard_rule,1,0,0,-1,1,,0,346.78,8,0,0,0,100,0
 S1_Batch_Results_priority_preservation,Limit_Scen_050,050,baseline_2_hard_rule,0,0,0,-1,0,,0,0,0,0,0,0,0,0
 S1_Batch_Results_priority_preservation,Limit_Scen_051,051,baseline_2_hard_rule,1,1,1,1,1,,0,298.43,7,0,0,0,100,0
 S1_Batch_Results_priority_preservation,Limit_Scen_052,052,baseline_2_hard_rule,1,1,1,6,6,,0,363.04,8,0,0,49.429815,50.570185,0
 S1_Batch_Results_priority_preservation,Limit_Scen_053,053,baseline_2_hard_rule,0,0,0,-1,0,,0,0,0,0,0,0,0,0
-S1_Batch_Results_priority_preservation,Limit_Scen_054,054,baseline_2_hard_rule,1,1,1,3,3,,0,391.36,7,0,0,59.840045,40.159955,0
+S1_Batch_Results_priority_preservation,Limit_Scen_054,054,baseline_2_hard_rule,1,1,1,3,3,,0,392.72,8,0,0,55.963536,44.036464,0
 S1_Batch_Results_priority_preservation,Limit_Scen_055,055,baseline_2_hard_rule,0,0,0,-1,0,,0,0,0,0,0,0,0,0
-S1_Batch_Results_priority_preservation,Limit_Scen_056,056,baseline_2_hard_rule,1,1,1,2,2,,0,493.63,12,0,0,23.993679,76.006321,0
+S1_Batch_Results_priority_preservation,Limit_Scen_056,056,baseline_2_hard_rule,1,1,1,2,2,,0,490.56,12,0,0,23.833986,76.166014,0
 S1_Batch_Results_priority_preservation,Limit_Scen_057,057,baseline_2_hard_rule,1,1,1,5,5,,0,242.89,8,0,0,29.663634,70.336366,0
 S1_Batch_Results_priority_preservation,Limit_Scen_058,058,baseline_2_hard_rule,1,1,1,3,3,,0,239.51,8,0,0,28.278569,71.721431,0
 S1_Batch_Results_priority_preservation,Limit_Scen_059,059,baseline_2_hard_rule,0,0,0,-1,0,,0,0,0,0,0,0,0,0
